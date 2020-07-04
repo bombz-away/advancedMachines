@@ -6,14 +6,14 @@ size: 3
 hasPower: true
 hasItems: true
 hasLiquids: true
-craftTime: 60
+craftTime: 100
 updateEffect: smeltsmoke
 consumes: {
   power: 1
   items: {
     items: [
-      sand/7
-      lead/7
+      sand/10
+      lead/10
       ]
      }
     liquid: {
@@ -30,4 +30,4 @@ requirements: [
   ]
  categroy: crafting
  research: kiln
- outputItem: metaglass/10
+ outputItem: metaglass/12
