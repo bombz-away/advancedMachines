@@ -1,1 +1,33 @@
-c
+type: GenericSmelter
+name: Advanced Kiln
+description: Is More Resource Intensive Than A Normal Kiln, but Produces Much More Metaglass
+liquidCapacity: 32
+size: 3
+hasPower: true
+hasItems: true
+hasLiquids: true
+craftTime: 60
+updateEffect: smeltsmoke
+consumes: {
+  power: 1
+  items: {
+    items: [
+      sand/7
+      lead/7
+      ]
+     }
+    liquid: {
+      liquid: water
+      amount: 0.13
+      }
+    }
+requirements: {
+  copper/200
+  lead/200
+  graphite/200
+  silicon/150
+  phase-fabric/10
+  }
+ categroy: crafting
+ research: kiln
+ outputItem: metaglass/10
