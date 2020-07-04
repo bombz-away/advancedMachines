@@ -1,5 +1,5 @@
 type: GenericSmelter
-name: Advanced Kiln
+name: Advanced 
 description: Is More Resource Intensive Than A Normal Kiln, but Produces Much More Metaglass
 liquidCapacity: 32
 size: 3
